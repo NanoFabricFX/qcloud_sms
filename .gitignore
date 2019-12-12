@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+Build/
+.vs/
+*.lock.json
+*.nuget.props
+*.nuget.targets
+*.orig
+.vscode
+.DS_Store

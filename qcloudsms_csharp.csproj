@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>0.1.7</Version>
+    <Copyright>Copyright 2017 (c) Tencent Cloud. All Rights Reserved.</Copyright>
+    <Description>qcloudsms c# sdk</Description>
+    <PackageReleaseNotes>The first release version of qcloudsms c# sdk.</PackageReleaseNotes>
+    <Company>Tencent</Company>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+</Project>
+
